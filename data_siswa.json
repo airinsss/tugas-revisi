@@ -1,0 +1,29 @@
+[
+    {
+        "nama": "Ega",
+        "jurusan": "Rekayasa Perangkat Lunak",
+        "nilai": [
+            80,
+            10,
+            31
+        ]
+    },
+    {
+        "nama": "Airin",
+        "jurusan": "Rekayasa Perangkat Lunak",
+        "nilai": [
+            80,
+            80,
+            80
+        ]
+    },
+    {
+        "nama": "Yusuf",
+        "jurusan": "Rekayasa Perangkat Lunak",
+        "nilai": [
+            90,
+            10,
+            50
+        ]
+    }
+]
