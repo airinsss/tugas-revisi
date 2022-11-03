@@ -50,13 +50,5 @@ async def look_nilai():
         data["nilai_ascending"] = sorted(i.get("nilai"))
         data["nilai_descending"]= sorted(i.get("nilai"), reverse=True)
 
-        # nilai_descending:list = i.get("nilai")
-        # nilai_descending.sort(reverse=True)
-        # print(nilai_descending)
-        # data["nilai_descending"] = nilai_descending
-
         data_nilai.append(data)
-
-    print(data_nilai)
-
     return data_nilai
